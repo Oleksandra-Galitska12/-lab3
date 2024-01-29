@@ -25,3 +25,10 @@
 - **Population** - графік, що відображає кількісні парамтери **grass, rabbits, weeds**.
 
 <br>
+
+### Налаштування середовища BehaviorSearch:
+
+**Обрана модель**:
+<pre>
+C:\Program Files\NetLogo 6.3.0\models\Sample Models\Biology\Rabbits Grass Weeds.nlogo
+</pre>
